@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://deepakkumar0622.github.io/portfolio-v1/)
 
-- 💬 Ask me about **React**
+
 
 - 📫 How to reach me **deepak.kumarr.dev@gmail.com**
 
