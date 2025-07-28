@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java Based products**
 
-- 🌱 I’m currently learning **Front-End Technologies**
+- 🌱 I’m currently learning **Back-End Technologies**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://deepakkumar0622.github.io/portfolio-v1/)
 
